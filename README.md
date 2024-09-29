@@ -6,6 +6,9 @@ k3sup is a light-weight utility to get from zero to KUBECONFIG with [k3s](https:
 
 The tool is written in Go and is cross-compiled for Linux, Windows, MacOS and even on Raspberry Pi.
 
+![](https://i.imgur.com/waxVImv.png)
+### [View all Roadmaps](https://github.com/nholuongut/all-roadmaps) &nbsp;&middot;&nbsp; [Best Practices](https://github.com/nholuongut/all-roadmaps/blob/main/public/best-practices/) &nbsp;&middot;&nbsp; [Questions](https://www.linkedin.com/in/nholuong/)
+
 How do you say it? Ketchup, as in tomato.
 
 [![Sponsor this](https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&link=https://github.com/sponsors/alexellis)](https://github.com/sponsors/alexellis)
@@ -785,11 +788,17 @@ Currently there is an issue in k3s involving `iptables >= 1.8` that can affect t
 
 ## Do you use `k3sup`?
 
+I'm are always open to your feedback.  Please contact as bellow information:
 ### [Contact ]
 * [Name: nho Luong]
 * [Skype](luongutnho_skype)
 * [Github](https://github.com/nholuongut/)
 * [Linkedin](https://www.linkedin.com/in/nholuong/)
-* [Email Address](luongutnho@hotmail.com) 
+* [Email Address](luongutnho@hotmail.com)
 
+![](https://i.imgur.com/waxVImv.png)
+![](bitfield.png)
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/nholuong)
+
+# License
+* Nho Luong (c). All Rights Reserved.
